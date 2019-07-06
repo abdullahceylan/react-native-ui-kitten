@@ -22,7 +22,7 @@
     "enhanced-resolve": "^3.3.0",
     "immutable": "3.8.1",
     "ionicons": "2.0.1",
-    "marked": "^0.3.6",
+    "marked": "^0.4.0",
     "prismjs": "^1.6.0",
     "rxjs": "5.4.0",
     "zone.js": "0.8.10"
