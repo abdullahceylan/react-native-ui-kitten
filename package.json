@@ -14,8 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "hoist-non-react-statics": "^2.0.0",
-    "prop-types": "^15.5.10",
-    "lodash": "4.17.10"
+    "prop-types": "^15.6.2",
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "babel-eslint": "8.2.2",
